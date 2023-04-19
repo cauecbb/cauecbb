@@ -1,4 +1,4 @@
-### Opa, eu sou o Cauê, Desenvolvedor Mobile | Híbrido. 📱
+### Prazer, eu sou o Cauê, Desenvolvedor Mobile. 📱
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/cauecbb">
