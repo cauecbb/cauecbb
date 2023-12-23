@@ -7,7 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <h3>Currently focused on theses technologies:</h3>
-  <p>  Dart  |  Flutter</p>
+  <p>  Kotlin </p>
   <img align="center" alt="Caue-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Caue-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
