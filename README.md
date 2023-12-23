@@ -6,7 +6,7 @@
   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cauecbb&theme=tokyonight&layout=compact&hide=cmake,swift,kotlin,objective-c,c%2B%2B"/>
 </div>
 <div style="display: inline_block"><br>
-  <h3>Atualmente focado nessas tecnologias:</h3>
+  <h3>Currently focused on theses technologies:</h3>
   <p>  Dart  |  Flutter</p>
   <img align="center" alt="Caue-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Caue-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
