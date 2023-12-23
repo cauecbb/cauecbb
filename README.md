@@ -1,4 +1,4 @@
-### Prazer, eu sou o Cauê, Desenvolvedor Mobile. 📱
+### Hey, I'm Caue, a Mobile Developer. 📱
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/cauecbb">
